@@ -1,0 +1,24 @@
+body {
+	background-color: #FFE; 
+	border: 1px; solid black;
+
+}
+/* A comment her */
+
+img {
+	border-style:solid;
+	border-color: red;
+	border-width; :1px;
+}
+/* class */
+.auxHeader {
+	color:#887;
+}
+/* id */
+#top
+}
+
+/* tag*/
+a{
+	color:#900;
+}
