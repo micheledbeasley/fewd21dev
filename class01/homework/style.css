@@ -85,7 +85,8 @@ body {
 }
 
 .toc .toclevel-1 > a {
-
+  font-weight: bold;
+  color:#3344aa;
 }
 
 .toc .toclevel-2 {
@@ -101,5 +102,7 @@ body {
 }
 
 .datatable td:first-child{
+  font-size: 11px;
   text-transform: uppercase;
+  font-weight: bold;
 }
