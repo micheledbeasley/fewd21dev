@@ -1,0 +1,74 @@
+/*this is my css style sheet*/
+* {
+	box-sizing: border-box;
+}
+header {
+	font-size: 24px;
+	text-align: left;
+	text-indent: 20%;
+	text: bold;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	font-size: 14px;
+	text-align: center;
+	background-color: yellow
+}
+/* width: 750px;
+	height: 26em;
+  	margin: 20px auto;*/
+.lax {
+	width: 750px;
+	height: 26em;
+  	margin: 0px auto;
+  	padding-top: 25px;
+  	background-image: url(header_bg.jpg);
+}
+
+
+.beni {
+	width: 750px;
+	height: 10em;
+  	margin-top: 0px;
+  	margin: 0px auto;
+  	text-indent: 7%; 
+  	padding-top: 1px;
+ }
+  
+.quot {
+	width: 750px;
+	height: 9em;
+  	margin: 20px auto;
+	font: white;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	background-image: url(testimonial_bg.jpg);
+	text-align: center;
+}
+.now {
+	background-color: yellow;
+	font-size: 24px;
+	text-align: center;
+	background-color: yellow;
+	width: 750px;
+	height: 2em;
+	margin: 0px auto;
+}
+.fot {text-align: center;
+	height: 4em;
+  	margin: 30px auto;
+  	padding-top: 1em;
+  	background-image: url(testimonial_bg.jpg);
+}
+
+
+
+
+	

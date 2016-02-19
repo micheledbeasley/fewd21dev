@@ -1,0 +1,77 @@
+/** this is my comment**/
+.logo {
+            
+            width: 400px;
+            height: 40px;
+            font-size: 16px;
+            font-family: Tahoma, Geneva, sans-serif;
+            font-weight: bold;
+            text-align: center;
+            display: inline;
+        padding-top: 5px;
+        padding-right: 20px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        }
+
+    li {
+            display: inline;
+            background-color: blue;
+        }
+
+    h1 {
+        float: left;
+        background-color: blue;
+		text-align: left;
+		min-width: 300px;
+		max-width: 550px;
+		text-align: left;
+		padding: 5px;
+		margin: 0px;
+        }
+
+	h2 {
+	text-align: left;
+	min-width: 300px;
+	max-width: 550px;
+	text-align: left;
+	padding: 5px;
+	margin: 0px;
+}
+
+
+   img {     	
+    	margin: 20px;
+    	float: left;
+		text-align: left;
+		min-width: 300px;
+		max-width: 550px;
+		text-align: left;
+		padding: 5px;
+		margin: 0px;  		
+	}
+        
+p {
+	text-align: left;
+	min-width: 300px;
+	max-width: 550px;
+	text-align: left;
+	padding: 5px;
+	margin: 0px;
+
+    }
+p:first-letter{
+	color: red;
+	font-size: 3em; /*make letter larger*/
+	font-weight: bold;
+}
+
+aside {
+	float: right;
+
+	
+
+}
+
+
+

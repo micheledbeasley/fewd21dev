@@ -15,12 +15,12 @@
 }
 .main {
   background: yellow;
-  float: left;
+  float: right;
   width: 60%;
 }
 .sideBar {
   background: green;
-  float: right;
+  float: left;
   width: 40%;
 }
 .pageFooter {
