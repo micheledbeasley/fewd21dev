@@ -14,7 +14,23 @@
         padding-left: 30px;
         }
 
-    li {
+   section {
+   	width: 500px;
+   	float: left;
+   }
+
+   aside{
+   	width: 300px;
+   	float: left;
+   }
+
+   .centralcontent{
+   	clear:both;
+   	width: 1000px;
+   	margin: 0 auto;
+   }
+
+    .relaxrtopnav li {
             display: inline;
             background-color: blue;
         }
@@ -60,7 +76,7 @@ p {
 	margin: 0px;
 
     }
-p:first-letter{
+p:first-letter {
 	color: red;
 	font-size: 3em; /*make letter larger*/
 	font-weight: bold;
@@ -68,6 +84,8 @@ p:first-letter{
 
 aside {
 	float: right;
+	 
+
 
 	
 

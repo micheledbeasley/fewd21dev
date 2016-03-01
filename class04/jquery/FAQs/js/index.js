@@ -1,3 +1,4 @@
+//cheat slack to get the answer for this
 $( document ).ready(function){
 
 function toggleAnswer1() {
