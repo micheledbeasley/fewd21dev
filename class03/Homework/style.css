@@ -22,6 +22,7 @@
    aside{
    	width: 300px;
    	float: left;
+
    }
 
    .centralcontent{
@@ -33,7 +34,13 @@
     .relaxrtopnav li {
             display: inline;
             background-color: blue;
-        }
+            margin-right: 40px;
+
+            border-bottom-style: solid;
+            border-bottom-color: none;
+            border-bottom-width: 2px;
+            padding: 20px;
+       }
 
     h1 {
         float: left;
@@ -84,12 +91,13 @@ p:first-letter {
 
 aside {
 	float: right;
-	 
-
-
-	
 
 }
+
+h4 { color: blue;}
+
+
+
 
 
 
